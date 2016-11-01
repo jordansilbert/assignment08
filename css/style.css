@@ -1,0 +1,137 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+    width: 100%;
+    min-width: 100%;
+    vertical-align: baseline;
+}
+
+body {
+    background-color: #6D7993;
+    font-family: Ovo, serif;
+    font-size: 2em;
+    font-size: 100%;
+}
+
+#banner {
+    margin: 0 auto;
+    text-align: center;
+    background-color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: gray;
+    font-family: cursive;
+}
+
+.nav_bar {
+    text-align: center;
+    background-color: dimgray;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+
+ul {
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    opacity: 0.5;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+
+
+#center {
+    width: 960px;
+    background-color: darkcyan;
+    margin: 0px auto;
+    margin-top: 87px;
+}
+
+p {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#figures {
+    margin: 0px 0px 0px 200px;
+}
+
+figure{
+    padding: 0;
+    margin: 10px 50px 10px 65px;
+    align-content: center;
+
+}
+
+figure img{
+    height: 300px;
+    width: 350px;
+    padding: 0;
+}
+
+figcaption{
+    font-size: .9em;
+}
+
+#col1 {
+    display: inline-block;
+    padding: 0px 0px 230px 0px;
+}
+
+#ad_bar {
+    float: right;
+    margin-top: 15px;
+    margin-right: 0.3em;
+    width: 15%;
+    min-height: 100%;
+}
+
+#table {
+    margin: 0px 0px 0px 200px;
+    padding: 10px;
+    border: 1px solid black;
+    display: table;
+}
+
+th, td {
+    border-bottom: 1px solid black;
+}
+
+img {
+    vertical-align: baseline;
+}
+
+#ptable {
+    margin: 0px 0px 0px 125px;
+}
+
+p {
+    margin: 10px 0px 0px 40px;
+}
+
